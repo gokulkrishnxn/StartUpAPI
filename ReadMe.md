@@ -9,6 +9,7 @@ Building a Python Automation Start Up Name
 * now check the 
 browser = webdriver.Chrome('C:/Users/gokul/AppData/Local/Google/Chrome/Application/chromedriver.exe')
 (U have to put your // loaction where is the chrome//path// by puting // chromedriver.exe)
+Now run the script in python
 * SO the list will generate a random name 
 * it will search the in godaddy.com 
 *if it the name has a domain.com then it will print 
